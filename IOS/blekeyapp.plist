@@ -33,13 +33,13 @@
             <key>metadata</key>  
             <dict>  
                 <key>bundle-identifier</key>  
-                <string>com.Haval.LeftSlide</string>  
+                <string>com.Patac.LeftSlide</string>  
                 <key>bundle-version</key>  
-                <string>1.1</string>  
+                <string>1.0</string>  
                 <key>kind</key>  
                 <string>software</string>  
                 <key>title</key>  
-                <string>GWM BLE-KEY</string>  
+                <string>GM BLE-KEY</string>  
             </dict>  
         </dict>  
     </array>  
