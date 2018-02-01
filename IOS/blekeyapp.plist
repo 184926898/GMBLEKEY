@@ -33,9 +33,9 @@
             <key>metadata</key>  
             <dict>  
                 <key>bundle-identifier</key>  
-                <string>com.Patac.LeftSlide</string>  
+                <string>com.kostal.LeftSlideex</string>  
                 <key>bundle-version</key>  
-                <string>1.12</string>  
+                <string>1.41</string>  
                 <key>kind</key>  
                 <string>software</string>  
                 <key>title</key>  
